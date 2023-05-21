@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobMarcaNews", "WebJobMarcaNews\WebJobMarcaNews.csproj", "{38D9022E-BC05-4518-821D-45633F0F004D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D9022E-BC05-4518-821D-45633F0F004D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D9022E-BC05-4518-821D-45633F0F004D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D9022E-BC05-4518-821D-45633F0F004D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D9022E-BC05-4518-821D-45633F0F004D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117FAB69-40B2-4FE0-80D1-ECEE5C193506}
+	EndGlobalSection
+EndGlobal
